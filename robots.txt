@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sultanrafatar.github.io/anak-sultan/sitemap.xml
